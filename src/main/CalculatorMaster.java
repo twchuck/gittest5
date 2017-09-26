@@ -10,8 +10,4 @@ public class CalculatorMaster {
 		return a - b - b - b - b;
 	}
 
-	public static int multiply(int a, int b) {
-		return a * b * b;
-	}
-
 }
