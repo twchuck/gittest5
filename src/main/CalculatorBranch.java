@@ -13,4 +13,7 @@ public class CalculatorBranch {
 	public static int div2(int a, int b) {
 		return a / b;
 	}
+	public static int div3(int a, int b) {
+		return a / b;
+	}
 }
